@@ -16,3 +16,5 @@ Creative-Commons 4.0 BY-SA Lizenz
 All Information on this repository (including the wiki and google docs presentation) is licensed under an Creative-Commons 4.0 BY-SA License
 
 (Lizenzbestimmungen / Licenseterms)[https://creativecommons.org/licenses/by-sa/4.0/]
+
+Benutzung auf eigene Gefahr / Use at your own risk
