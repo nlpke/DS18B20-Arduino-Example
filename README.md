@@ -6,8 +6,8 @@ An example of using the DS18B20 temperature senor (waterproof) with an Arduino i
 Further information can be found in the wiki.
 
 # Anleitung  / Instructions
-[Hier klicken für das Wiki / Click here for Wiki](https://github.com/nlpke/DS18B20-Arduino-Tutorial/wiki)
-Schritt-für-Schritt Anleitung (Google Docs Präsentation) [Hier klicken](https://goo.gl/B4Zcwf) / Only in german language
+* [Hier klicken für das Wiki / Click here for Wiki](https://github.com/nlpke/DS18B20-Arduino-Tutorial/wiki)
+* Schritt-für-Schritt Anleitung (Google Docs Präsentation) [Hier klicken](https://goo.gl/B4Zcwf) / Only in german language
 
 # Lizenz / License
 Die Anleitung und alle Informationen im Repository sowie im Wiki (inklusive der Anleitung auf Google Docs) sind lizensiert unter einer
