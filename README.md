@@ -1,6 +1,6 @@
 # DS18B20-Arduino-Tutorial
 
-![DS18B20](https://github.com/nlpke/DS18B20-Arduino-Tutorial/DS18B20.png)
+![DS18B20](https://raw.githubusercontent.com/nlpke/DS18B20-Arduino-Tutorial/master/DS18B20.PNG)
 
 Beispiel Tutorial für die Verwendung des DS18B20 Temperatursensors (Wasserdicht) mit dem Arduino in Kombination mit einem PC.
 Weitere Informationen und eine Schritt-für-Schritt Anleitung gibt es im Wiki
